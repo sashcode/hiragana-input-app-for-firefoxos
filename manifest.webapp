@@ -1,0 +1,19 @@
+{
+  "name": "HIRAGANA",
+  "version": "1.0",
+  "description": "A Japanese HIRAGANA Input App",
+  "launch_path": "/index.html",
+  "permissions": {
+    "storage": {
+      "description": "Required for storing and retrieving notes."
+      }
+  },
+  "developer": {
+    "name": "shin sakamoto",
+    "url": "http://samuraipuroducts.com"
+  },
+  "icons": {
+    "60": "/icons/icon_60.png",
+    "128": "/icons/icon_128.png"
+  }
+}
