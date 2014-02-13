@@ -1,3 +1,8 @@
+Do not work！
+================================
+Now this app do not work on Filrefox OS.
+ 
+
 hiragana-input-app-for-firefoxos
 ================================
 
