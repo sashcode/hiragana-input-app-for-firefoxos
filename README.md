@@ -1,4 +1,4 @@
-Do not work！
+This app do NOT work！
 ================================
 Now this app do not work on Filrefox OS.
  
